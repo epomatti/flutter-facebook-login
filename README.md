@@ -1,6 +1,6 @@
 # Fluter Facebook Login demo
 
-Copied from [this blog](https://medium.com/flutter-community/flutter-facebook-login-77fcd187242).
+Implemented using [this blog](https://medium.com/flutter-community/flutter-facebook-login-77fcd187242) steps.
 
 ## Getting Started
 
