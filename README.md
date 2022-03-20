@@ -1,9 +1,21 @@
-# Fluter Facebook Login demo
+# Facebook Flutter Login
 
-Implemented using [this blog](https://medium.com/flutter-community/flutter-facebook-login-77fcd187242) steps.
+Facebook login with Flutter.
 
-## Getting Started
+<img src=".docs/demo.gif" height=300/>
 
-1. Configure your Facebook App (https://developers.facebook.com/docs/facebook-login/android)
-2. `flutter packages get`
-3. `flutter run`
+### Running it
+
+You'll need Flutter 2 SDK and an Android Emulator running.
+
+```bash
+flutter pub get
+flutter run
+```
+
+### Sources
+
+```
+https://facebook.meedu.app/docs/4.x.x/android/
+https://developers.facebook.com/docs/facebook-login/android?locale=en_US
+```
